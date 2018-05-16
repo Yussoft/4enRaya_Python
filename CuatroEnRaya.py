@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 17 10:36:33 2015
 
-@author: Jesús Sánchez de Castro 77183983P
+@author: Jesús Sánchez de Castro 
 
 Aplicación Cuatro en Raya
 """
